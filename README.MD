@@ -15,7 +15,7 @@ Welcome to the PWA Kit!
 npm start
 ```
 
-This will open a browser and your storefront will be running on http://localhost:3000
+This will open a browser and your storefront will be running on http://localhost:4444
 
 ### Deploy to Managed Runtime
 
